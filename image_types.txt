@@ -1,0 +1,23 @@
+image file 
+
+a image format is how the images are stored and represented.This is done using a process of 
+rasterization. an image is a grid of pixels and every pixel has a value(a bit).
+a pixel is a smallest unit in a graphic display or digital image.
+each pixel is made up of green,blue,red lighting elements to make millions of different colours.
+
+working of a pixel 
+Pixels are the vehicle for transforming binary code data into an image on a screen. Each pixel in an RGB monitor is sent a piece of code that tells it how to display a certain color. Because each pixel has red, green, and blue lighting elements, the code is made up of a triplet of eight-digit numbers written in binary code
+
+screen resolution => no of pixels on a screen 
+more pixels == better pic quality
+
+pixel density (ppi)pixel per inch 
+
+jpeg = joint photographic experts group 
+jpg = joint photographic group (static) 
+gif = graphic interchange format (dynamic)
+png = portable network group 
+ 
+The major difference between JPEG and PNG is that JPEG follows a lossy compression technique. On the other hand, PNG is a lossless compression
+
+BMP => bitmap image file
